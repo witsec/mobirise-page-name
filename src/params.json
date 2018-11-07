@@ -1,0 +1,9 @@
+{
+    "name": "Page Name",
+    "alias": "witsec-page-name",
+    "version": 0.1,
+    "minAppVersion": "4",
+    "appScript": true,
+	"description":"Change the filename extension of your pages.",
+	"logo":"thumbnail.png"
+}
