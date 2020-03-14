@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## 0.2 (2018-11-xx)
+## 0.2 (2018-11-12)
 
 - Added additional page settings
 - Added 'Learn more...' link in extension description
