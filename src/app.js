@@ -1,4 +1,4 @@
-(function(jQuery, mbrApp) {
+defineM("witsec-page-name", function(g, mbrApp, tr) {
     mbrApp.regExtension({
         name: "witsec-page-name",
         events: {
@@ -11,4 +11,4 @@
             }
         }
     })
-})(jQuery, mbrApp);
+}, ["jQuery", "mbrApp", "TR()"]);
