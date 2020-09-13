@@ -1,8 +1,8 @@
 {
-    "name": "Page Name v2",
+    "name": "Page Name v3",
     "alias": "witsec-page-name",
-    "version": 2,
-    "minAppVersion": "4",
+    "version": 3,
+    "minAppVersion": "4.10.17",
     "appScript": true,
 	"description":"Change the filename of your pages and insert custom HTML code. <a href='https://witsec.nl'>Learn more...</a>",
 	"logo":"thumbnail.svg"
