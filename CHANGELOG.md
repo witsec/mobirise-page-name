@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## v4 (2025-03-19)
+
+- Updated thumbnail image
+
 ## v3 (2020-09-13)
 
 - Added Global HTML fields
